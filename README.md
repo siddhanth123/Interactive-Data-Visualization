@@ -1,1 +1,1 @@
-# Interactive-Data-Visualization
+This project contains interactive data visualizations for COVID-19 using Our World In Data (OWID) dataset. This is our mini-project for the subject 'Interactive Data Visualiation'. The language, libraries, tools and the visualiation techniques used are present in our report.
